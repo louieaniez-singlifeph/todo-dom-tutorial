@@ -142,9 +142,6 @@ const addTodo = (e) => {
     appendList()
   }
 
-  // Remove filter
-  filterList = false
-
   // Clear user's input
   elements.input.value = null
 }
